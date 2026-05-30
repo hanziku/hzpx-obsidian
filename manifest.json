@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-hxpz",
+	"name": "Hanzi Pingxin Plugin",
+	"version": "0.0.1",
+	"minAppVersion": "0.15.0",
+	"description": ".",
+	"author": "yap cheah shen",
+	"authorUrl": "https://shutonggui.cn/obsidian",
+	"isDesktopOnly": false
+}
